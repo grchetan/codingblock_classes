@@ -1,0 +1,13 @@
+01-05-26 q is 934 
+
+
+revision day
+1. tow pointer app
+2. dutch algorithm
+3. four 2d arrays / four pointer 2d array
+4. divide and conquer algorithm
+5. recursion
+
+
+
+
